@@ -1,2 +1,2 @@
 # Java_Practice_Questions
-easy level java interview questions
+Easy level java interview questions
